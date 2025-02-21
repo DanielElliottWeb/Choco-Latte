@@ -1,0 +1,35 @@
+p2 {
+    color: whitesmoke;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium';
+}
+h2 {
+    color: chocolate;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium';
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.about1 {
+    margin-top: 200px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.about2 {
+    margin-top: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.about3 {
+    margin-top: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 40px;
+}

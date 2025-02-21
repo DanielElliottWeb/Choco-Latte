@@ -1,0 +1,43 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+form{
+    background: whitesmoke;
+    padding: 20px;
+    text-align: center;
+    border-radius: 25px;
+    width: 600px;
+}
+
+form input{
+    display: block;
+    margin: 10px;
+    padding: 10px;
+    width: 550px;
+    border-radius: 25px;
+    border: 1px solid #000000;
+}
+
+form input[type="submit"] {
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: 600;
+    background: rgb(0, 0, 0);
+    color: whitesmoke;
+}
+
+form input[type="Reset"] {
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: 600;
+    background: #000000;
+    color: whitesmoke;
+}
+p{
+    color: rgb(255, 0, 0);
+    font-size: 20px;
+}
